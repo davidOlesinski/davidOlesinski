@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Olesinski</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
-<img align="right" alt="Coding" width="500" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="Coding" width="500" src="[https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidolesinski&label=Profile%20views&color=0e75b6&style=flat" alt="davidolesinski" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on **becoming the best version of myself.**
