@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Olesinski</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
-
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidolesinski&label=Profile%20views&color=0e75b6&style=flat" alt="davidolesinski" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **becoming the best version of myself.**
 
 - 🌱 I’m currently learning **JavaScript.**
