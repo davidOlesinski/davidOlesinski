@@ -3,11 +3,6 @@
 <img align="right" alt="Coding" padding="500px" width="347px" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidolesinski&label=Profile%20views&color=0e75b6&style=flat" alt="davidolesinski" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on **becoming the best version of myself.**
-
-- 🌱 I’m currently learning **JavaScript.**
-
-- 👯 I’m looking to collaborate on **projects.**
 
 - 📫 How to reach me **shiellby@gmail.com**
 
